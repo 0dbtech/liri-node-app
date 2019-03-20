@@ -1,0 +1,10 @@
+* spotify-this-song,"I Want it That Way"
+
+
+Spotify Info
+
+liri-node-app
+Week 10 homework for Columbia Coding Bootcamp
+
+Client ID d298f1cf011f4b939f219f5475fcdbe2
+Client Secret 6088e85de9f04821a20d026c3d7c14d1

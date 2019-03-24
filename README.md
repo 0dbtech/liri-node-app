@@ -11,3 +11,16 @@ LIRI is a _Language_ Interpretation and Recognition Interface. LIRI will search 
    * `movie-this`
 
    * `do-what-it-says`
+
+npm init -y
+
+OMDB
+
+Here is your key: 1bbf59b3
+
+Please append it to all of your API requests,
+
+OMDb API: http://www.omdbapi.com/?i=tt3896198&apikey=1bbf59b3
+
+
+Bands in Town Artist Events API (`"https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp"`)

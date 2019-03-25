@@ -272,12 +272,3 @@ switch (command) {
     default:
       console.log('Unrecognized command')
   }
-
-
-// * `concert-this`
-
-// * `spotify-this-song`
-
-// * `movie-this`
-
-// * `do-what-it-says`
